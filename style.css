@@ -1,0 +1,106 @@
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Montserrat, sans-serif;
+  position: fixed;
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  left: 470px;
+  color: grey;
+}
+
+#minha_foto {
+  position: absolute;
+  border-radius: 100px;
+  top: 80px;
+  left: 120px;
+  width: 160px;
+}
+
+#title_licoes_aprendidas {
+  position: absolute;
+  top: 236px;
+  left: 64px;
+  width: 180px;
+  font-size: 18px;
+  text-align: left;
+}
+
+#licoes_aprendidas {
+  position: absolute;
+  top: 306px;
+  left: 40px;
+}
+
+#title_licoes_aprender {
+  position: absolute;
+  top: 236px;
+  left: 322px;
+  width: 200px;
+  font-size: 18px;
+  text-align: left;
+}
+
+#licoes_a_aprender {
+  position: absolute;
+  top: 306px;
+  left: 300px;
+}
+
+#rodape {
+  position: relative;
+  top: 560px;
+  left: 560px;
+  text-align: center;
+}
+
+#social-media {
+  position: absolute;
+  top: 200px;
+  left: 650px;
+}
+
+#social-github {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+}
+
+#social-linkedin {
+  position: absolute;
+  top: 40px;
+}
+
+#social-twitter {
+  position: absolute;
+  top: 40px;
+  left: 100px;
+}
+
+#text-article {
+  position: absolute;
+  top: 302px;
+  left: 550px;
+  width: 500px;
+  height: 400px;
+  padding: 1px;
+  line-height: 22px;
+}
+
+#section-aside {
+  position: absolute;
+  top: 298px;
+  left: 1100px;
+  width: 150px;
+  height: 200px;
+  padding: 1px;
+  line-height: 22px;
+}
+
+#table {
+  border: 1px;
+  padding: 1px;
+  margin: 1px;
+}
